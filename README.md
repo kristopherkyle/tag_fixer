@@ -1,6 +1,11 @@
 # Simple part of speech tag fixer
 
 ### These functions are designed to fix POS tags.
+
+### To install using pip:
+
+    pip install tag-fixer
+
 ### To begin, import tag_fixer:
 
     from tag_fixer import tag_fixer as tf
