@@ -1,7 +1,7 @@
 # Simple part of speech tag fixer
 
 ### These functions are designed to fix POS tags.
-### For tag_fixer() The presumed format of the data is a list of [word,tag] or (word,tag) pairs
+### For tag_fixer(), the presumed format of the data is a list of [word,tag] or (word,tag) pairs
     
     l = [["The","DT"],["teacher","NNP"],["is","VBZ"],["awesome","JJ"]]
     fixed_list = tag_fixer(l)
