@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="tag_fixer",
-    version="0.0.1",
+    version="0.0.4",
     author="Kristopher Kyle",
     author_email="kristopherkyle1@gmail.com",
     description="A simple interface for checking and fixing POS tags",
