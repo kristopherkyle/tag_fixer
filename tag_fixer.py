@@ -5,7 +5,7 @@ Created on Wed Oct 24 14:41:15 2018
 
 @author: kriskyle
 """
-def tag_fixer(list1): #still buggy
+def tag_fixer(list1):
     
     def iterate(fixed, index, over):
 
