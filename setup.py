@@ -11,7 +11,7 @@ setuptools.setup(
     description="A simple interface for checking and fixing POS tags",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/kristopherkyle/tag_fixer",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
